@@ -62,7 +62,11 @@ nav .stickyadd .navbar-brand {
     transition: .5s all;
 }
 
+<<<<<<< HEAD
 nav .stickyadd .navbar-nav .nav-link {
+=======
+nav .stickyadd .navbar-nav .nav-link{
+>>>>>>> 407b6c8face24ccce891687fe0806fc8595a854c
     color: #000 !important;
 }
 
